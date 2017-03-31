@@ -1,0 +1,2 @@
+會用到的指令全部裝在我設定的class Cls中，countratingA、countratingB分別會計算出新的Ra跟Rb，countscoreA、countscoreB則是會分別算出新的Ea、Eb。
+陣列s會記錄讀取file.in的數值，經過計算的Ra、Rb會輸出到file.out。
